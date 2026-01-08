@@ -19,6 +19,8 @@ O que aprenderemos?
 * Entrada de dados
 * Utilização eficiente do Github Copilot
 
+Arquivo da Resolução: [`resolucoes_code/concat_dados.py`](resolucoes_code/concat_dados.py)
+
 <br>
 
 ## 2 - Repetindo Textos ✏️
@@ -34,6 +36,8 @@ O que aprenderemos?
 * Entrada de dados
 * Aproveitar as sugestões do Github Copilot
 
+Arquivo da Resolução: [`resolucoes_code/repet_txt.py`](resolucoes_code/repet_txt.py)
+
 <br>
 
 ## 3 - Operações Matemáticas Simples 📐
@@ -47,6 +51,8 @@ O que aprenderemos?
 * Entrada de dados
 * Utilização eficiente do Github Copilot
 
+Arquivo da Resolução: [`resolucoes_code/ope_mat.py`](resolucoes_code/ope_mat.py)
+
 <br>
 
 ## 4 - Verificando Números Pares e Ímpares 🧮
@@ -58,6 +64,8 @@ O que aprenderemos?
 * Utilização de condicionais em Python (if, else) para realizar verificações.
 * Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
 * Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
+
+Arquivo da Resolução: [`resolucoes_code/even_odd_checker.py`](resolucoes_code/even_odd_checker.py)
 
 
 <br>
@@ -72,6 +80,8 @@ O que aprenderemos?
 * Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 * Prática na solicitação e manipulação de entrada do usuário.
 
+Arquivo da Resolução: [`resolucoes_code/grade_average.py`](resolucoes_code/grade_average.py)
+
 <br>
 
 ## 6 - Verificando Palíndromos 🔄
@@ -83,3 +93,5 @@ O que aprenderemos?
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+
+Arquivo da Resolução: [`resolucoes_code/palindrome_checker.py`](resolucoes_code/palindrome_checker.py)
